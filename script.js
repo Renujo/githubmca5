@@ -1,0 +1,1 @@
+javascript is a high and interpreted language
